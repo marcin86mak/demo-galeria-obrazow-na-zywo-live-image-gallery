@@ -1,4 +1,4 @@
-popup = {
+const popup = {
     init: function(){
         $('figure').click(function(){
             popup.open($(this));
