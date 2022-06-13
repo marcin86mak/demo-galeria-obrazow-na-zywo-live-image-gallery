@@ -1,0 +1,17 @@
+{
+  "name": "demo-galeria-obrazow-na-zywo-live-image-gallery",
+  "version": "1.0.0",
+  "description": "Galeria obrazów na żywo - live-image-gallery",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "marcin86mak@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
